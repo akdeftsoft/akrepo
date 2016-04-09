@@ -1,3 +1,4 @@
 <?php_egg_logo_guid
-echo "hello github this is my first file for testing";
+echo "hello git hub this is my first file for testing";
+echo"git hub is awesome";
 ?>
